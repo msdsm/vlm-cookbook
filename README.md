@@ -11,3 +11,5 @@ This table lists the VLMs currently included in this collection. Contributions a
 |InternVL3|[internvl3](./internvl3/)|[Link](https://huggingface.co/collections/OpenGVLab/internvl3-67f7f690be79c2fe9d74fe9d)|[Link](https://arxiv.org/abs/2504.10479)|[Link](https://github.com/OpenGVLab/InternVL)|
 |InternVL3.5|[internvl3_5](./internvl3_5/)|[Link](https://huggingface.co/collections/OpenGVLab/internvl35-68ac87bd52ebe953485927fb)|[Link](https://arxiv.org/abs/2508.18265)|[Link](https://github.com/OpenGVLab/InternVL)|
 |Heron-NVILA|[heron-nvila](./heron-nvila/)|[Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B)|||
+|Aya Vision|[aya-vision](./aya-vision/)|[Link](https://huggingface.co/CohereLabs/aya-vision-8b)|[Link](https://arxiv.org/abs/2505.08751)||
+|Sarashina2-Vision||[Link](https://huggingface.co/sbintuitions/sarashina2-vision-8b)|||
