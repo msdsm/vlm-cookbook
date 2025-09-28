@@ -1,0 +1,13 @@
+[project]
+name = "qwen-2-5-vl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "accelerate>=1.10.1",
+    "flash-attn>=2.8.3",
+    "qwen-vl-utils[decord]==0.0.10",
+    "torchvision>=0.23.0",
+    "transformers>=4.56.2",
+]
