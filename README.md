@@ -10,3 +10,4 @@ This table lists the VLMs currently included in this collection. Contributions a
 |Qwen3-VL||[Link](https://huggingface.co/docs/transformers/main/model_doc/qwen3_vl)|[Link](https://arxiv.org/abs/2505.09388)|[Link](https://github.com/QwenLM/Qwen3-VL)|
 |InternVL3|[internvl3](./internvl3/)|[Link](https://huggingface.co/collections/OpenGVLab/internvl3-67f7f690be79c2fe9d74fe9d)|[Link](https://arxiv.org/abs/2504.10479)|[Link](https://github.com/OpenGVLab/InternVL)|
 |InternVL3.5|[internvl3_5](./internvl3_5/)|[Link](https://huggingface.co/collections/OpenGVLab/internvl35-68ac87bd52ebe953485927fb)|[Link](https://arxiv.org/abs/2508.18265)|[Link](https://github.com/OpenGVLab/InternVL)|
+|Heron-NVILA|[heron-nvila](./heron-nvila/)|[Link](https://huggingface.co/turing-motors/Heron-NVILA-Lite-15B)|||
